@@ -1,0 +1,20 @@
+@import "@fortawesome/fontawesome-free/css/all.css";
+
+body{
+  background-color: midnightblue;
+;
+}
+h2, h1, p{
+  color: white;
+  text-shadow: black;
+}
+
+th, td, tr{
+  color:darkblue;
+  background-color: aliceblue;
+  text-shadow: black;
+}
+
+form{
+  background-color: antiquewhite;
+}
